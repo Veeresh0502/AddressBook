@@ -105,7 +105,7 @@ gcc main.c contact.c file.c populate.c -o addressbook
 
 ## 👨‍💻 Author
 
-**Veeresh T**
+**Veeresh C Totagi**
 
 ---
 
